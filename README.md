@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Sillybutts
-- 👀 I’m interested in creating interesting and fun to use things, whether that is games, toys, tools, or something else!
+- Hi, I’m @Sillybutts
+- I’m interested in creating interesting and fun to use things, whether that is games, toys, tools, or something else!
