@@ -12,7 +12,7 @@ Take note that not *all* of my designs are NC, just some of them.
 Here's some other links to my crap:
 - If you want to support what I do, go buy stuff at my RedBubble! https://www.redbubble.com/people/Sillybutts/shop
 
-- I put my printables on Thingiverse (https://www.thingiverse.com/sillybutts/designs), but that site sucks. So my stuff is also here on GitHub.
+- I put my printables on Thingiverse (https://www.thingiverse.com/sillybutts/designs), but that site sucks, so my Thingi stuff is also here on GitHub.
 
 - This is my YouTube channel, I put a bunch of stuff on it. Gaming videos, 3d modeling, test prints, etc. https://www.youtube.com/c/Sillybutts/videos
 
