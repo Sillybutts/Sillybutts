@@ -23,4 +23,6 @@ Here's some other links to my crap:
 Help support me!
 
 - I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
-- I have pages on Patreon and BuyMeACoffee! https://www.buymeacoffee.com/sillybutts https://www.patreon.com/sillybutts
+- I have pages on Patreon and BuyMeACoffee! 
+- - https://www.buymeacoffee.com/sillybutts 
+- - https://www.patreon.com/sillybutts
