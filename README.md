@@ -27,5 +27,3 @@ Help support me!
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillybutts&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sillybutts)  
