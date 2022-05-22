@@ -1,7 +1,5 @@
-Ello, I’m Sillybutts.
-
-
-I make stuff, go print it. Unless it's something I made that isn't 3d printed. Do whatever is applicable in that case. 
+### Ello, I’m Sillybutts.
+#### I make stuff, go print it. Unless it's something I made that isn't 3d printed. Do whatever is applicable in that case. 
 
 If you wish to print and sell any of my Non-Commercial designs, please contact me for licensing. 
 I can be reached on 
@@ -28,3 +26,12 @@ Help support me!
 - - https://www.patreon.com/sillybutts
 - - https://www.buymeacoffee.com/sillybutts 
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sillybutts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZdvE8gNlJ3DfPRVNMlfuwg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SillyTheGamer)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillybutts&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Sillybutts)  
+
+![Profile views](https://gpvc.arturio.dev/Sillybutts)  
