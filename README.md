@@ -29,4 +29,4 @@ Help support me!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillybutts&show_icons=true)  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sillybutts&theme=tokyonight" alt="mystreak"/>
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/sillybutts/sillybutts/blob/output/github-contribution-snake.svg)
