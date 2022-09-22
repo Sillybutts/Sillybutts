@@ -4,7 +4,8 @@
 If you wish to print and sell any of my foam blaster designs, please contact me for licensing. 
 I can be reached on 
 - Discord (Sillybutts#5905) 
-- or Reddit (u/SillyTheGamer).
+- Reddit (u/SillyTheGamer)
+- Email (IamSillybutts@gmail.com)
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
