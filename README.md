@@ -18,7 +18,7 @@ I can be reached via:
 
 <img alt="Discord Button" style="border-width:0" src="GHimages/Discord%20Icon.png" height="50" /> Discord (Sillybutts#5905) 
 <a href="https://www.reddit.com/user/SillyTheGamer"><img alt="Reddit Button" style="border-width:0" src="GHimages/Reddit%20Icon.png" height="50" /></a> Reddit (u/SillyTheGamer)
-<a href="IamSillybutts@gmail.com"><img alt="Email Button" style="border-width:0" src="GHimages/Email%20Icon.png" height="50" /></a> Email (IamSillybutts@gmail.com)
+<a href="mailto:IamSillybutts@gmail.com"><img alt="Email Button" style="border-width:0" src="GHimages/Email%20Icon.png" height="50" /></a> Email (IamSillybutts@gmail.com)
 
 
 **If you are having issues with any of my designs, please let me know.**
