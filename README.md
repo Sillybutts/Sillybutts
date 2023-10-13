@@ -21,11 +21,16 @@ I used to put my stuff on Thingiverse (https://www.thingiverse.com/sillybutts/de
 
 If you wish to print and sell any of my foam blaster designs, please contact me for licensing. 
 I can be reached on 
+
 <img alt="Discord Button" style="border-width:0" src="GHimages/Discord%20Icon.png" height="50" /> Discord (Sillybutts#5905) 
+
 <a href="https://www.reddit.com/user/SillyTheGamer"><img alt="Reddit Button" style="border-width:0" src="GHimages/Reddit%20Icon.png" height="50" /></a> Reddit (u/SillyTheGamer)
+
 <a href="IamSillybutts@gmail.com"><img alt="Email Button" style="border-width:0" src="GHimages/Email%20Icon.png" height="50" /></a> Email (IamSillybutts@gmail.com)
 
+
 **If you are having issues with any of my designs, please let me know.**
+
 
 ## If you like what I do, please consider supporting me!
 
