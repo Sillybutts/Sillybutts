@@ -31,7 +31,8 @@ I can be reached on
 
 <a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
 
-AWESOME shirts made in collaboration with Brandon Diaz! https://brandondiaz.me/product/foam-fndry-sillybutts
+<a href="https://brandondiaz.me/product/foam-fndry-sillybutts"><img alt="FoamFNDRY Button" style="border-width:0" src="GHimages/FoamFndry%20BrandonDiaz%20Icon.png" height="50" /></a> https://brandondiaz.me/product/foam-fndry-sillybutts AWESOME shirts made in collaboration with Brandon Diaz! 
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillybutts&show_icons=true)  
 ![Snake animation](https://github.com/sillybutts/sillybutts/blob/output/github-contribution-snake.svg)
