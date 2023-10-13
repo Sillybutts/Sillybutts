@@ -3,21 +3,27 @@
 
 Here's some other links to my stuff:
 
-- Here is my YouTube channel: https://www.youtube.com/c/Sillybutts/videos
+<a href="https://www.youtube.com/c/Sillybutts/videos"><img alt="YouTube Button" style="border-width:0" src="GHimages/YouTube%20Icon.png" height="50" /></a> Here is my YouTube channel: https://www.youtube.com/c/Sillybutts/videos
 
-- My website (which is sometimes up-to-date): https://stuffbysilly.com/
+<a href="https://stuffbysilly.com/"><img alt="StuffBySilly Button" style="border-width:0" src="GHimages/512x512%20Logo%20Circle%20Biggericon%20Outlined.png" height="50" /></a> My website (which is sometimes up-to-date): https://stuffbysilly.com/
 
-- This is my Reddit https://www.reddit.com/user/SillyTheGamer
+<a href="https://www.reddit.com/user/SillyTheGamer"><img alt="Reddit Button" style="border-width:0" src="GHimages/Reddit%20Icon.png" height="50" /></a> This is my Reddit https://www.reddit.com/user/SillyTheGamer
 
-- I used to put my stuff on Thingiverse (https://www.thingiverse.com/sillybutts/designs), but then Thingiverse became crap over time.
+I used to put my stuff on Thingiverse (https://www.thingiverse.com/sillybutts/designs), but then Thingiverse became crap over time.
+
+
+
+
+<img src="GHimages/.png" width="500">
+
 
 ## Customer Support
 
 If you wish to print and sell any of my foam blaster designs, please contact me for licensing. 
 I can be reached on 
-- Discord (Sillybutts#5905) 
-- Reddit (u/SillyTheGamer)
-- Email (IamSillybutts@gmail.com)
+<img alt="Discord Button" style="border-width:0" src="GHimages/Discord%20Icon.png" height="50" /> Discord (Sillybutts#5905) 
+<a href="https://www.reddit.com/user/SillyTheGamer"><img alt="Reddit Button" style="border-width:0" src="GHimages/Reddit%20Icon.png" height="50" /></a> Reddit (u/SillyTheGamer)
+<a href="IamSillybutts@gmail.com"><img alt="Email Button" style="border-width:0" src="GHimages/Email%20Icon.png" height="50" /></a> Email (IamSillybutts@gmail.com)
 
 **If you are having issues with any of my designs, please let me know.**
 
