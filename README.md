@@ -29,9 +29,4 @@ If you wish to print and sell any of my foam blaster designs, please contact me 
 <a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="40" /></a> https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillybutts&show_icons=true)  
-![Snake animation](https://github.com/sillybutts/sillybutts/blob/output/github-contribution-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" /> 
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
