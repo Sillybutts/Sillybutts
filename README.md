@@ -1,7 +1,7 @@
 ## Hello, I'm Sillybutts!
 #### I like to make things (which are sometimes silly).
 
-<a href="https://www.printables.com/@Sillybutts"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="100" /></a>
+<a href="https://www.printables.com/@Sillybutts"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="500" /></a>
 
 Here's some links to my stuff:
 ## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/@Sillybutts
